@@ -7,10 +7,9 @@ Jump IDE
 </h1>
 
 <p align="center">
-Jump to local IDE source code while click the element of browser automatically.
+Jump to the local IDE source code while clicking the element of the browser automatically.
 <p>
 
 <div align="center">
-  <a href="https://github.com/jump-ide/plugin-vue-open-ide">plugin-vue-open-ide</a> —
-  <a href="https://vitest.dev/guide">vite-plugin-online-vue-jumper</a>
+  <a href="https://github.com/jump-ide/vite-plugin-open-ide">vite-plugin-open-ide</a> 
 </div>
