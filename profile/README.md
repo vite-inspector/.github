@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Jump IDE
+Vite Inspector
 </h1>
 
 <p align="center">
