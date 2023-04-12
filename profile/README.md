@@ -13,5 +13,5 @@ Jump to the local IDE source code while clicking the element of the browser auto
 <p>
 
 <div align="center">
-  <a href="https://github.com/jump-ide/vite-plugin-open-ide">vite-plugin-open-ide</a> 
+  <a href="https://github.com/vite-inspector/vite-inspector">vite-inspector</a> 
 </div>
